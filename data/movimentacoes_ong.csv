@@ -1,0 +1,11 @@
+data,descricao,categoria,valor,tipo
+2026-03-01,Doação mensal recorrente,doacoes,3000.00,entrada
+2026-03-02,Conta de energia,infraestrutura,420.00,saida
+2026-03-03,Compra de alimentos,alimentacao,950.00,saida
+2026-03-05,Repasse de parceiro local,parcerias,2500.00,entrada
+2026-03-06,Material pedagógico,pedagogico,680.00,saida
+2026-03-08,Transporte para atendimentos,transporte,390.00,saida
+2026-03-10,Internet,infraestrutura,120.00,saida
+2026-03-12,Compra de cadeiras plásticas,mobiliario,540.00,saida
+2026-03-15,Evento beneficente,eventos,1800.00,entrada
+2026-03-18,Medicamentos pontuais,saude,310.00,saida

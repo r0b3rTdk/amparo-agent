@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Alimentação das crianças",
+    "categoria": "essencial",
+    "nivel_prioridade": "alta",
+    "impacto": "direto",
+    "descricao": "Gasto recorrente que impacta diretamente o bem-estar diário das crianças"
+  },
+  {
+    "nome": "Materiais pedagógicos",
+    "categoria": "educacional",
+    "nivel_prioridade": "alta",
+    "impacto": "direto",
+    "descricao": "Itens usados nas atividades de aprendizagem e desenvolvimento"
+  },
+  {
+    "nome": "Transporte para atendimentos",
+    "categoria": "logistica",
+    "nivel_prioridade": "alta",
+    "impacto": "direto",
+    "descricao": "Permite deslocamento para atendimentos, eventos e apoio às famílias"
+  },
+  {
+    "nome": "Computadores para atividades educativas",
+    "categoria": "infraestrutura_educacional",
+    "nivel_prioridade": "media",
+    "impacto": "medio",
+    "descricao": "Melhora as atividades educativas, mas pode depender do orçamento do mês"
+  },
+  {
+    "nome": "Itens decorativos",
+    "categoria": "ambientacao",
+    "nivel_prioridade": "baixa",
+    "impacto": "indireto",
+    "descricao": "Podem melhorar o ambiente, mas não são prioridade diante de necessidades essenciais"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "nome": "Instituto Caminho Azul",
+  "cidade": "João Pessoa - PB",
+  "area_atuacao": "Apoio a crianças atípicas",
+  "criancas_atendidas": 28,
+  "orcamento_mensal_medio": 12000.0,
+  "saldo_atual": 4200.0,
+  "despesas_fixas_mensais": 7900.0,
+  "principais_necessidades": [
+    "materiais pedagógicos",
+    "cadeiras adaptadas",
+    "alimentação",
+    "transporte",
+    "computadores para atividades educativas"
+  ],
+  "objetivo_principal": "Organizar os recursos da ONG e melhorar a priorização dos gastos",
+  "restricoes": [
+    "não comprometer despesas essenciais",
+    "não usar o saldo total em gastos não urgentes"
+  ]
+}
